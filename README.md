@@ -1,5 +1,5 @@
 # MultiPose-EdgeTPU-RPI0
-Multipose model that runs on the Raspberry Pi Zero with an EdgeTPU (Coral USB)
+Multipose model that runs on the Raspberry Pi Zero with an EdgeTPU ([Coral USB](https://coral.ai/products/accelerator))
 
 
 ## Acknowledgments:
