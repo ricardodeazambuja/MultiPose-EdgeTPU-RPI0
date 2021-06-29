@@ -10,3 +10,6 @@ git clone https://github.com/ricardodeazambuja/MultiPose-EdgeTPU-RPI0.git
 * https://towardsdatascience.com/optimizing-pose-estimation-on-the-coral-edge-tpu-d331c63cfed
 * https://github.com/patlevin/tfjs-to-tf
 * https://storage.googleapis.com/tfjs-models/savedmodel/posenet/
+
+## Disclaimer
+* Use it at your own risk and, please, [don't be evil](https://www.youtube.com/watch?v=b23wrRfy7SM) ;)
